@@ -1,0 +1,18 @@
+The Search Criteria for the timeline graph that shows the protests from January 1, 2000 to July 28,2019 is:
+
+        Start Date = 01/01/2000
+        End Date = 07/28/2019
+        Actor1 Country: USA
+        Actor1 Type: GOV
+        Actor2 Country: 
+        Actor2 Type: 
+        Event Code: 14
+        Event Quad Class: 
+        Event Country: US
+        Weighting: NUMEVENTS
+        
+ http://data.gdeltproject.org/analytics_user/20190729092001.2818.timeline.png
+ 
+ The above link provides a timeline graph for all the protests that have been done till now all United States.
+ 
+By looking those details we may assume that more protests are happening in beginning and ending of an year. This is just by observing the graph but if we deeply analyse the data we may even find out what is the cause of those protests and how it is resolved and also which may help in solving any future problems that may arise.
